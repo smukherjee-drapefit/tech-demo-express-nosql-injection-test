@@ -1,0 +1,27 @@
+{
+  "name": "tech-demo-express-nosql-injection-test",
+  "version": "1.0.0",
+  "description": "Technical Demo for Testing NoSQL Injection on Express MongoDB Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Drape Fit",
+    "Security",
+    "MongoDB",
+    "Express",
+    "Node.js",
+    "NoSQL",
+    "Injection",
+    "Attack",
+    "Vulnerability"
+  ],
+  "author": "Sukhendu Mukherjee",
+  "email": "smukherjee@drapefit.com",
+  "contributors": [
+    "li.yang@drapefit.com"
+  ],
+  "company": "Drape Fit Inc.",
+  "license": "MIT"
+}
